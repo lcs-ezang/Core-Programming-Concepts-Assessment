@@ -24,6 +24,16 @@
  
  */
 // Answer question 2 below
+let bookName = "Why is Mr.Gordon missing today?"
+print("The book's name is a constant because once the book is published, the name won't change.")
+let authorName = "Matt Zhang"
+print("The original author of the book will never change, so it can be a constant.")
+let yearPublished = 2018
+print("The year the book was published in will also never change, so it is a constant.")
+var copiesSold = 50
+print("The number of copies sold will always increase as more people buy the book, so copies sold is a variable")
+var sellingPriceInDollars = 1000000
+print("The selling price will change depending on demand and other factors, so it can be a variable.")
 
 /*:
  ## Now share your understanding
