@@ -23,6 +23,28 @@
  
  */
 // Answer question 3 below
+//Original Balance
+var spendingMoney = 0.0
+
+//Grandparents give money
+spendingMoney += 50.0
+
+//Go Bowling
+spendingMoney /= 3
+spendingMoney *= 2
+
+//Bet on math test
+spendingMoney += 10.0
+
+//Bet on science test
+spendingMoney -= 10.0
+
+//Buy food
+spendingMoney -= 5.50
+
+//Kind uncle doubles money
+spendingMoney *= 2
+
 
 /*:
  ## Now share your understanding
