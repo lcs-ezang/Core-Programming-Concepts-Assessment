@@ -23,6 +23,14 @@
  
  */
 // Answer question 4 below
+var appsUsedToday = 5
+print("The amount of apps used in a day is an integer because only an integer amount of apps can be used, you can't use half an app")
+var hoursPhoneWasOn = 2.2
+print("The amount of hours the phone was on is a double because the phone can be on for a quarter of an hour.")
+var mostPopularApp = "Spotify"
+print("The most popular app is a string because an app's name is made up of letters.")
+var date = "Thursday, January 18, 2018"
+print("The date is a string because even though it can be represented through numbers, it is easier to read as a string.")
 
 /*:
  ## Now share your understanding
